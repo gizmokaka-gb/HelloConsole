@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Examples\\Example003_Div\\Example003_Div.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Examples\\Example004_Div\\Example003_Div.csproj",
       "projectName": "Example003_Div",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Examples\\Example003_Div\\Example003_Div.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Examples\\Example004_Div\\Example003_Div.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Examples\\Example003_Div\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Examples\\Example004_Div\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
